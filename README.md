@@ -191,7 +191,6 @@ Supported by / 支持者:
 * Qing Mu, Software Tester, NIO
 * Yu Li, Axinfu.Inc
 * Zhenwei Chen, Software Engineer
-* Shen Lin, Front-End Developer, DHI China
 * Marc Zhao, software Engineer
 * Menglong Huang, Developer, PingCAP
 * Zuokun Ouyang, PhD Student, Université d'Orléans
@@ -200,3 +199,4 @@ Supported by / 支持者:
 * Yifu Meng, Front-end Developer
 * Sean Gao, Senior Software Engineer
 * Henry Hu, Software Engineer, Fabric Group
+* Lion Zhao, Software Engineer
